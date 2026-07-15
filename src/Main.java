@@ -47,5 +47,7 @@ public class Main {
         }
         scanner.close();
         System.out.println("Программа завершена =)");
+        System.out.println("ттт");
+
     }
 }
